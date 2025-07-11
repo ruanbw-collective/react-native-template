@@ -7,14 +7,20 @@
 
 ## Get started
 
+expo metro preset use watchman
+
+```bash
+brew install watchman
+```
+
 1. Install dependencies
 
-   ```bash
-   pnpm install
-   ```
+```bash
+pnpm install
+```
 
 2. Start the app
 
-   ```bash
-   npx expo start
-   ```
+```bash
+npx expo start
+```
